@@ -1,9 +1,7 @@
 
 <div align="center">
   <img src="https://sandaruwan-img-host.pages.dev/Google_Maps_Lead_Scraper-removebg-preview.png" width="350" height="350">
-
-
-
+  
   <h1> 🗺️ Google Maps Lead Scraper </h1>
 </div>
 
